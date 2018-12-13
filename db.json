@@ -1,4 +1,5 @@
 {
+  "all" : {
     "meta": {
         "page": 1,
         "resources_per_page": 5,
@@ -167,4 +168,5 @@
             }
         }
     ]
+}
 }
