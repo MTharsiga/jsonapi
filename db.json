@@ -1,5 +1,4 @@
 {
-  "all" : {
     "meta": {
         "page": 1,
         "resources_per_page": 5,
@@ -7,27 +6,36 @@
     },
     "data": [
         {
-            "type": "authors",
-            "id": "2",
+            "type": "user",
+            "id": "1",
             "attributes": {
-                "name": "testststst",
-                "birthplace": "Malaysia",
-                "date_of_birth": "1996-01-29",
-                "date_of_death": "1983-06-19"
+                "name": "user1",
             },
             "relationships": {
                 "photos": {
                     "data": []
                 },
-                "books": {
+                "orders": {
                     "data": [
                         {
-                            "type": "books",
-                            "id": "3"
+                            "type": "orders",
+                            "id": "1",
+                            "attributes": {
+                                "orderId": "user1",
+                                "status": "In-Progress",
+                                "amount": "2000",
+                                "details": "This order is reference to 1010102 order number and total no of items added is 10"
+                            },
                         },
                         {
-                            "type": "books",
-                            "id": "30"
+                            "type": "orders",
+                            "id": "2",
+                            "attributes": {
+                                "orderId": "user1",
+                                "status": "Delivered",
+                                "amount": "350",
+                                "details": "This order is reference to 101023 order number and total no of items added is 2"
+                            },
                         }
                     ]
                 }
@@ -35,138 +43,82 @@
             "links": {
                 "self": "/authors/2"
             }
-        },
-        {
-            "type": "authors",
-            "id": "3",
+        },{
+            "type": "user",
+            "id": "2",
             "attributes": {
-                "name": "George Emmerich",
-                "birthplace": "El Salvador",
-                "date_of_birth": "1988-04-30",
-                "date_of_death": "1970-02-12"
-            },
-            "relationships": {
-                "photos": {
-                    "data": [
-                        {
-                            "type": "photos",
-                            "id": "3"
-                        }
-                    ]
-                },
-                "books": {
-                    "data": [
-                        {
-                            "type": "books",
-                            "id": "13"
-                        }
-                    ]
-                }
-            },
-            "links": {
-                "self": "/authors/3"
-            }
-        },
-        {
-            "type": "authors",
-            "id": "4",
-            "attributes": {
-                "name": "Prof. Antonina Paucek",
-                "birthplace": "Thailand",
-                "date_of_birth": "2010-09-30",
-                "date_of_death": "1997-07-05"
-            },
-            "relationships": {
-                "photos": {
-                    "data": [
-                        {
-                            "type": "photos",
-                            "id": "4"
-                        },
-                        {
-                            "type": "photos",
-                            "id": "5"
-                        }
-                    ]
-                },
-                "books": {
-                    "data": [
-                        {
-                            "type": "books",
-                            "id": "26"
-                        }
-                    ]
-                }
-            },
-            "links": {
-                "self": "/authors/4"
-            }
-        },
-        {
-            "type": "authors",
-            "id": "5",
-            "attributes": {
-                "name": "Sierra Prosacco",
-                "birthplace": "Zambia",
-                "date_of_birth": "1992-07-30",
-                "date_of_death": "1999-04-21"
+                "name": "user1",
             },
             "relationships": {
                 "photos": {
                     "data": []
                 },
-                "books": {
+                "orders": {
                     "data": [
                         {
-                            "type": "books",
-                            "id": "16"
+                            "type": "orders",
+                            "id": "1",
+                            "attributes": {
+                                "orderId": "user1",
+                                "status": "In-Progress",
+                                "amount": "2000",
+                                "details": "This order is reference to 1010102 order number and total no of items added is 10"
+                            },
+                        },
+                        {
+                            "type": "orders",
+                            "id": "2",
+                            "attributes": {
+                                "orderId": "user1",
+                                "status": "Delivered",
+                                "amount": "350",
+                                "details": "This order is reference to 101023 order number and total no of items added is 2"
+                            },
                         }
                     ]
                 }
             },
             "links": {
-                "self": "/authors/5"
+                "self": "/authors/2"
             }
-        },
-        {
-            "type": "authors",
-            "id": "7",
+        },{
+            "type": "user",
+            "id": "3",
             "attributes": {
-                "name": "Miss Noemy Paucek DVM",
-                "birthplace": "Senegal",
-                "date_of_birth": "1990-04-02",
-                "date_of_death": "1988-10-14"
+                "name": "user1",
             },
             "relationships": {
                 "photos": {
-                    "data": [
-                        {
-                            "type": "photos",
-                            "id": "7"
-                        },
-                        {
-                            "type": "photos",
-                            "id": "8"
-                        }
-                    ]
+                    "data": []
                 },
-                "books": {
+                "orders": {
                     "data": [
                         {
-                            "type": "books",
-                            "id": "4"
+                            "type": "orders",
+                            "id": "1",
+                            "attributes": {
+                                "orderId": "user1",
+                                "status": "In-Progress",
+                                "amount": "2000",
+                                "details": "This order is reference to 1010102 order number and total no of items added is 10"
+                            },
                         },
                         {
-                            "type": "books",
-                            "id": "21"
+                            "type": "orders",
+                            "id": "2",
+                            "attributes": {
+                                "orderId": "user1",
+                                "status": "Delivered",
+                                "amount": "350",
+                                "details": "This order is reference to 101023 order number and total no of items added is 2"
+                            },
                         }
                     ]
                 }
             },
             "links": {
-                "self": "/authors/7"
+                "self": "/authors/2"
             }
         }
     ]
-}
 }
