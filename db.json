@@ -43,7 +43,7 @@
 				"self": "/authors/2"
 			}
 		}, {
-			"type": "user",
+			"type": "user2",
 			"id": "2",
 			"attributes": {
 				"name": "user1"
@@ -80,7 +80,7 @@
 				"self": "/authors/2"
 			}
 		}, {
-			"type": "user",
+			"type": "user3",
 			"id": "3",
 			"attributes": {
 				"name": "user1"
