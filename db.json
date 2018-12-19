@@ -8,8 +8,8 @@
 		"data": [{
 				"attributes": {
 					"Offer_name": "Chrictmas Offer",
-					"start_date": 2018-12-05T00:00:00,
-					"end_date": 2018-12-30T00:00:00,
+					"start_date": "2018-12-05T00:00:00",
+					"end_date": "2018-12-30T00:00:00",
 					"details": "Christmas offer"
 				},
 				"type": "offers",
@@ -18,8 +18,8 @@
 			{
 				"attributes": {
 					"Offer_name": "New Year Offer",
-					"start_date": 2018-12-20T00:00:00,
-					"end_date": 2019-01-05T00:00:00,
+					"start_date": "2018-12-20T00:00:00",
+					"end_date": "2019-01-05T00:00:00",
 					"details": "New Year offer"
 				},
 				"type": "offers",
