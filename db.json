@@ -5,24 +5,23 @@
 			"resources_per_page": 5,
 			"total_resources": 6
 		},
-		"data": [
-        {
-            "attributes": {
-                "title": "Order accepted",
-                "description": "Your order is accepted."
-            },
-            "type": "notification",
-            "id": "1"
-        },
-        {
-            "attributes": {
-                "title": "Offer available",
-                "description": "30% discount for dry-cleaning"
-            },
-            "type": "notification",
-            "id": "2"
-        }
-    ],
+		"data": [{
+				"attributes": {
+					"title": "Order accepted",
+					"description": "Your order is accepted."
+				},
+				"type": "notification",
+				"id": "1"
+			},
+			{
+				"attributes": {
+					"title": "Offer available",
+					"description": "30% discount for dry-cleaning"
+				},
+				"type": "notification",
+				"id": "2"
+			}
+		]
 	},
 	"meta": {
 		"total-records": 2
