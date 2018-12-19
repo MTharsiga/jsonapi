@@ -6,31 +6,116 @@
 			"total_resources": 6
 		},
 		"data": [{
-				"attributes": {
-					"Offer_name": "Chrictmas Offer",
-					"start_date": "2018-12-05T00:00:00",
-					"end_date": "2018-12-30T00:00:00",
-					"details": "Christmas offer"
-				},
-				"type": "offers",
-				"id": "1"
+			"type": "user",
+			"id": "1",
+			"attributes": {
+				"name": "user1"
 			},
-			{
-				"attributes": {
-					"Offer_name": "New Year Offer",
-					"start_date": "2018-12-20T00:00:00",
-					"end_date": "2019-01-05T00:00:00",
-					"details": "New Year offer"
+			"relationships": {
+				"photos": {
+					"data": []
 				},
-				"type": "offers",
-				"id": "2"
+				"orders": {
+					"data": [{
+							"type": "orders",
+							"id": "1",
+							"attributes": {
+								"orderId": "user1",
+								"status": "In-Progress",
+								"amount": "2000",
+								"details": "This order is reference to 1010102 order number and total no of items added is 10"
+							}
+						},
+						{
+							"type": "orders",
+							"id": "2",
+							"attributes": {
+								"orderId": "user2",
+								"status": "Delivered",
+								"amount": "350",
+								"details": "This order is reference to 101023 order number and total no of items added is 2"
+							}
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/authors/2"
 			}
-		]
-	},
-	"meta": {
-		"total-records": 2
-	},
-	"links": {
-		"self": "/authors/2"
+		}, {
+			"type": "user2",
+			"id": "2",
+			"attributes": {
+				"name": "user1"
+			},
+			"relationships": {
+				"photos": {
+					"data": []
+				},
+				"orders": {
+					"data": [{
+							"type": "orders",
+							"id": "1",
+							"attributes": {
+								"orderId": "user3",
+								"status": "In-Progress",
+								"amount": "2000",
+								"details": "This order is reference to 1010102 order number and total no of items added is 10"
+							}
+						},
+						{
+							"type": "orders",
+							"id": "2",
+							"attributes": {
+								"orderId": "user4",
+								"status": "Delivered",
+								"amount": "350",
+								"details": "This order is reference to 101023 order number and total no of items added is 2"
+							}
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/authors/2"
+			}
+		}, {
+			"type": "user3",
+			"id": "3",
+			"attributes": {
+				"name": "user1"
+			},
+			"relationships": {
+				"photos": {
+					"data": []
+				},
+				"orders": {
+					"data": [{
+							"type": "orders",
+							"id": "1",
+							"attributes": {
+								"orderId": "user5",
+								"status": "In-Progress",
+								"amount": "2000",
+								"details": "This order is reference to 1010102 order number and total no of items added is 10"
+							}
+						},
+						{
+							"type": "orders",
+							"id": "2",
+							"attributes": {
+								"orderId": "user6",
+								"status": "Delivered",
+								"amount": "350",
+								"details": "This order is reference to 101023 order number and total no of items added is 2"
+							}
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/authors/2"
+			}
+		}]
 	}
 }
