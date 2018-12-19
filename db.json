@@ -12,6 +12,8 @@
 					"orderId": "121212",
 					"status": "In-Progress",
 					"amount": "2000",
+					"isRated": false,
+					"rating": 0,
 					"details": "This order is reference to 1010102 order number and total no of items added is 10"
 				}
 			},
@@ -22,6 +24,8 @@
 					"orderId": "111111",
 					"status": "Delivered",
 					"amount": "350",
+					"isRated": true,
+					"rating": 4,
 					"details": "This order is reference to 101023 order number and total no of items added is 2"
 				}
 			},
@@ -32,6 +36,8 @@
 					"orderId": "141414",
 					"status": "Delivered",
 					"amount": "350",
+					"isRated": false,
+					"rating": 0,
 					"details": "This order is reference to 101023 order number and total no of items added is 2"
 				}
 			},
@@ -42,6 +48,8 @@
 					"orderId": "131313",
 					"status": "Delivered",
 					"amount": "350",
+					"isRated": false,
+					"rating": 0,
 					"details": "This order is reference to 101023 order number and total no of items added is 2"
 				}
 			}
