@@ -6,54 +6,29 @@
 			"total_resources": 6
 		},
 		"data": [{
-				"type": "orders",
-				"id": "1",
 				"attributes": {
-					"orderId": "121212",
-					"status": "In-Progress",
-					"amount": "2000",
-					"isRated": false,
-					"rating": 0,
-					"details": "This order is reference to 1010102 order number and total no of items added is 10"
-				}
+					"Offer-name": "Chrictmas Offer",
+					"start-date": "2018-12-05T00:00:00",
+					"end-date": "2018-12-30T00:00:00",
+					"details": "Christmas offer"
+				},
+				"type": "offers",
+				"id": "1"
 			},
 			{
-				"type": "orders",
-				"id": "2",
 				"attributes": {
-					"orderId": "111111",
-					"status": "Delivered",
-					"amount": "350",
-					"isRated": true,
-					"rating": 4,
-					"details": "This order is reference to 101023 order number and total no of items added is 2"
-				}
-			},
-			{
-				"type": "orders",
-				"id": "2",
-				"attributes": {
-					"orderId": "141414",
-					"status": "Delivered",
-					"amount": "350",
-					"isRated": false,
-					"rating": 0,
-					"details": "This order is reference to 101023 order number and total no of items added is 2"
-				}
-			},
-			{
-				"type": "orders",
-				"id": "2",
-				"attributes": {
-					"orderId": "131313",
-					"status": "Delivered",
-					"amount": "350",
-					"isRated": false,
-					"rating": 0,
-					"details": "This order is reference to 101023 order number and total no of items added is 2"
-				}
+					"Offer-name": "New Year Offer",
+					"start-date": "2018-12-20T00:00:00",
+					"end-date": "2019-01-05T00:00:00",
+					"details": "New Year offer"
+				},
+				"type": "offers",
+				"id": "2"
 			}
 		]
+	},
+	"meta": {
+		"total-records": 2
 	},
 	"links": {
 		"self": "/authors/2"
