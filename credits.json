@@ -1,0 +1,22 @@
+{
+	"all": {
+		"meta": {
+			"page": 1,
+			"resources_per_page": 5,
+			"total_resources": 6
+		},
+		"data": {
+				"attributes": {
+					"credit": "2000"
+				},
+				"type": "notification",
+				"id": "1"
+			}
+	},
+	"meta": {
+		"total-records": 2
+	},
+	"links": {
+		"self": "/authors/2"
+	}
+}
