@@ -5,13 +5,49 @@
 			"resources_per_page": 5,
 			"total_resources": 6
 		},
-		"data": {
+		"data": [{
 				"attributes": {
-					"credit": "2000"
+					"name": "Home",
+    					"address": "No 06, \n37th Lane, \nColombo 06, \nSri Lanka",
+    					"firstName": "Richard",
+    					"lastName": "Michale",
+    					"email": "abc@gmail.com",
+    					"phone": "+9946152162",
+    					"postal": "00600",
+    					"isSelected": false
 				},
-				"type": "notification",
+				"type": "offers",
 				"id": "1"
+			},
+			{
+				"attributes": {
+					"name": "Office",
+					"address": "No 16, \n10th Lane, \nColombo 07, \nSri Lanka",
+					"firstName": "Risla",
+					"lastName": "Monalisa",
+					"email": "xyz@gmail.com",
+					"phone": "+9946152180",
+					"postal": "00800",
+					"isSelected": true
+				},
+				"type": "offers",
+				"id": "2"
+			},
+			 {
+				"attributes": {
+					"name": "Townhouse",
+					 "address": "No 16, \n26th Lane, \nColombo 05, \nSri Lanka",
+					 "firstName": "John",
+					 "lastName": "Davincy",
+					 "email": "mno@gmail.com",
+					 "phone": "+9954389572",
+					 "postal": "00480",
+					 "isSelected": false
+				},
+				"type": "offers",
+				"id": "2"
 			}
+		]
 	},
 	"meta": {
 		"total-records": 2
