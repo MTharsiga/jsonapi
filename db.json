@@ -16,7 +16,7 @@
 					"newPassword": "sumudu",
 					"isPushNotification": true,
 					"isRefresh": true,
-					"isEmailNotification": true,
+					"isEmailNotification": true
 				},
 				"type": "notification",
 				"id": "1"
