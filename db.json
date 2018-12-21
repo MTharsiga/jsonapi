@@ -7,16 +7,11 @@
 		},
 		"data": {
 				"attributes": {
-					"userName": "sumudu",
-					"firstName": "sumudu",
-					"lastName": "Wikram",
-					"phone": "+4481638193647",
-					"country": "Sri Lanka",
-					"password": "sumudu",
-					"newPassword": "sumudu",
-					"isPushNotification": true,
-					"isRefresh": true,
-					"isEmailNotification": true
+					"monday": "8AM - 9PM",
+					"saturday": "8AM - 6PM",
+					"sunday": "Closed",
+					"description": "Laundry Attendant is responsible for providing a constant supply of clean linens for the entire hotel. Laundry attendants also may be responsible for cleaning guests' personal items if the hotel offers a cleaning service.",
+					"website": "https://www.laundry.com"
 				},
 				"type": "notification",
 				"id": "1"
