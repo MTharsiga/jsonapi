@@ -7,13 +7,15 @@
 		},
 		"data": {
 				"attributes": {
-					"monday": "8AM - 9PM",
-					"saturday": "8AM - 6PM",
-					"sunday": "Closed",
-					"description": "Laundry Attendant is responsible for providing a constant supply of clean linens for the entire hotel. Laundry attendants also may be responsible for cleaning guests' personal items if the hotel offers a cleaning service.",
-					"website": "https://www.laundry.com"
+					"reviewCount": "5",
+					"totalReviews": "800",
+					"fiveStar": "100",
+					"fourStar": "25",
+					"threeStar": "23",
+					"twoStar": "40",
+					"oneStar": "10"
 				},
-				"type": "notification",
+				"type": "review",
 				"id": "1"
 			}
 	},
