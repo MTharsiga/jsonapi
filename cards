@@ -1,0 +1,40 @@
+{
+	"all": {
+		"meta": {
+			"page": 1,
+			"resources_per_page": 5,
+			"total_resources": 6
+		},
+		"data": [{
+				"attributes": {
+					"name": "Master Card 1",
+    					"number": "**** **** **** 8110"
+				},
+				"type": "offers",
+				"id": "1"
+			},
+			{
+				"attributes": {
+					"name": "Master Card 2",
+    					"number": "**** **** **** 6878"
+				},
+				"type": "offers",
+				"id": "2"
+			},
+			 {
+				"attributes": {
+					"name": "Master Card 3",
+    					"number": "**** **** **** 7878"
+				},
+				"type": "offers",
+				"id": "2"
+			}
+		]
+	},
+	"meta": {
+		"total-records": 2
+	},
+	"links": {
+		"self": "/authors/2"
+	}
+}
