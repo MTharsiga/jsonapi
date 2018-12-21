@@ -6,34 +6,34 @@
 			"total_resources": 6
 		},
 		"data": {
-				"attributes": {
-					"reviewCount": "5",
-					"totalReviews": "800",
-					"fiveStar": "100",
-					"fourStar": "25",
-					"threeStar": "23",
-					"twoStar": "40",
-					"oneStar": "10"
-					"description":[{
-					"name":"Jamson",
-					"date":"Nov 1, 2018"
-					"description":"It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in" , "Talking Tom game is absolutely great!!!!!!!! I loved it a lot . It is so cute so nice so fantastic it makes me so happy while I'm playing with the screen and having have a lots of fun with the same as well as even my dad and mom love this game because"
-				},
-			{
-					"name":"Himali",
-					"date":"Oct 10, 2018"
-					"description":"It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in" , "Talking Tom game is absolutely great!!!!!!!! I loved it a lot . It is so cute so nice so fantastic it makes me so happy while I'm playing with the screen and having have a lots of fun with the same as well as even my dad and mom love this game because"
-				},
-		{
-					"name":"Michale",
-					"date":"Dec 1, 2018"
-					"description":"It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in" , "Talking Tom game is absolutely great!!!!!!!! I loved it a lot . It is so cute so nice so fantastic it makes me so happy while I'm playing with the screen and having have a lots of fun with the same as well as even my dad and mom love this game because"
-				}
-			]
-				},
-				"type": "review",
-				"id": "1"
-			}
+			"attributes": {
+				"reviewCount": "5",
+				"totalReviews": "800",
+				"fiveStar": "100",
+				"fourStar": "25",
+				"threeStar": "23",
+				"twoStar": "40",
+				"oneStar": "10",
+				"description": [{
+						"name": "Jamson",
+						"date": "Nov 1, 2018",
+						"description": "It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in"
+					},
+					{
+						"name": "Himali",
+						"date": "Oct 10, 2018",
+						"description": "It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in"
+					},
+					{
+						"name": "Michale",
+						"date": "Dec 1, 2018",
+						"description": "It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in"
+					}
+				]
+			},
+			"type": "review",
+			"id": "1"
+		}
 	},
 	"meta": {
 		"total-records": 2
