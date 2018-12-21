@@ -7,42 +7,24 @@
 		},
 		"data": [{
 				"attributes": {
-					"name": "Home",
-    					"address": "No 06, 37th Lane, Colombo 06, Sri Lanka",
-    					"firstName": "Richard",
-    					"lastName": "Michale",
-    					"email": "abc@gmail.com",
-    					"phone": "+9946152162",
-    					"postal": "00600",
-    					"isSelected": false
+					"name": "Master Card 1",
+    					"number": "**** **** **** 8110"
 				},
 				"type": "offers",
 				"id": "1"
 			},
 			{
 				"attributes": {
-					"name": "Office",
-					"address": "No 16, \n10th Lane, \nColombo 07, \nSri Lanka",
-					"firstName": "Risla",
-					"lastName": "Monalisa",
-					"email": "xyz@gmail.com",
-					"phone": "+9946152180",
-					"postal": "00800",
-					"isSelected": true
+					"name": "Master Card 2",
+    					"number": "**** **** **** 6878"
 				},
 				"type": "offers",
 				"id": "2"
 			},
 			 {
 				"attributes": {
-					"name": "Townhouse",
-					 "address": "No 16, \n26th Lane, \nColombo 05, \nSri Lanka",
-					 "firstName": "John",
-					 "lastName": "Davincy",
-					 "email": "mno@gmail.com",
-					 "phone": "+9954389572",
-					 "postal": "00480",
-					 "isSelected": false
+					"name": "Master Card 3",
+    					"number": "**** **** **** 7878"
 				},
 				"type": "offers",
 				"id": "2"
