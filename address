@@ -7,20 +7,42 @@
 		},
 		"data": [{
 				"attributes": {
-					"Offer_name": "Chrictmas Offer",
-					"start_date": "2018-12-05T00:00:00",
-					"end_date": "2018-12-30T00:00:00",
-					"details": "Christmas offer"
+					"name": "Home",
+    					"address": "No 06, 37th Lane, Colombo 06, Sri Lanka",
+    					"firstName": "Richard",
+    					"lastName": "Michale",
+    					"email": "abc@gmail.com",
+    					"phone": "+9946152162",
+    					"postal": "00600",
+    					"isSelected": false
 				},
 				"type": "offers",
 				"id": "1"
 			},
 			{
 				"attributes": {
-					"Offer_name": "New Year Offer",
-					"start_date": "2018-12-20T00:00:00",
-					"end_date": "2019-01-05T00:00:00",
-					"details": "New Year offer"
+					"name": "Office",
+					"address": "No 16, \n10th Lane, \nColombo 07, \nSri Lanka",
+					"firstName": "Risla",
+					"lastName": "Monalisa",
+					"email": "xyz@gmail.com",
+					"phone": "+9946152180",
+					"postal": "00800",
+					"isSelected": true
+				},
+				"type": "offers",
+				"id": "2"
+			},
+			 {
+				"attributes": {
+					"name": "Townhouse",
+					 "address": "No 16, \n26th Lane, \nColombo 05, \nSri Lanka",
+					 "firstName": "John",
+					 "lastName": "Davincy",
+					 "email": "mno@gmail.com",
+					 "phone": "+9954389572",
+					 "postal": "00480",
+					 "isSelected": false
 				},
 				"type": "offers",
 				"id": "2"
