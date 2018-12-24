@@ -9,23 +9,23 @@
 			"attributes": {
 				"service": [{
 						"service": "Washed, Ironed and Hung",
-						"imageUrl": "Jamson"
+						"imageUrl": "assets/washed_iron_hung.jpg"
 					},
 					{
 						"service": "Dry Cleaning",
-						"imageUrl": "Himali"
+						"imageUrl": "assets/dry_cleaning.png"
 					},
 					{
 						"service": "Dining and Seating",
-						"imageUrl": "Michale"
+						"imageUrl": "assets/dining_and_seating.jpg"
 					},
 						{
 						"service": "Wash, Dry, Hung",
-						"imageUrl": "Michale"
+						"imageUrl": "assets/wash_dry_hung.jpg"
 					},
 						{
 						"service": "Dry Cleaning, Dining and Seating",
-						"imageUrl": "Michale"
+						"imageUrl": "assets/Only_Iron.jpg"
 					}
 				]
 			},
