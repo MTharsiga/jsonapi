@@ -7,30 +7,25 @@
 		},
 		"data": {
 			"attributes": {
-				"reviewCount": 5,
-				"totalReviews": "800",
-				"fiveStar": 100,
-				"fourStar": 25,
-				"threeStar": 23,
-				"twoStar": 40,
-				"oneStar": 10,
-				"description": [{
-						"reviewCount": 3,
-						"name": "Jamson",
-						"date": "Nov 1, 2018",
-						"description": "It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in"
+				"service": [{
+						"service": "Washed, Ironed and Hung",
+						"imageUrl": "Jamson"
 					},
 					{
-						"reviewCount": 4,
-						"name": "Himali",
-						"date": "Oct 10, 2018",
-						"description": "It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in"
+						"service": "Dry Cleaning",
+						"imageUrl": "Himali"
 					},
 					{
-						"reviewCount": 3,
-						"name": "Michale",
-						"date": "Dec 1, 2018",
-						"description": "It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in"
+						"service": "Dining and Seating",
+						"imageUrl": "Michale"
+					},
+						{
+						"service": "Wash, Dry, Hung",
+						"imageUrl": "Michale"
+					},
+						{
+						"service": "Dry Cleaning, Dining and Seating",
+						"imageUrl": "Michale"
 					}
 				]
 			},
