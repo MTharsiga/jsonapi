@@ -1,0 +1,42 @@
+{
+	"all": {
+		"meta": {
+			"page": 1,
+			"resources_per_page": 5,
+			"total_resources": 6
+		},
+		"data": {
+			"attributes": {
+				"service": [{
+						"service": "Washed, Ironed and Hung",
+						"imageUrl": "assets/washed_iron_hung.jpg"
+					},
+					{
+						"service": "Dry Cleaning",
+						"imageUrl": "assets/dry_cleaning.png"
+					},
+					{
+						"service": "Dining and Seating",
+						"imageUrl": "assets/dining_and_seating.jpg"
+					},
+						{
+						"service": "Wash, Dry, Hung",
+						"imageUrl": "assets/wash_dry_hung.jpg"
+					},
+						{
+						"service": "Dry Cleaning, Dining and Seating",
+						"imageUrl": "assets/Only_Iron.jpg"
+					}
+				]
+			},
+			"type": "review",
+			"id": "1"
+		}
+	},
+	"meta": {
+		"total-records": 2
+	},
+	"links": {
+		"self": "/authors/2"
+	}
+}
