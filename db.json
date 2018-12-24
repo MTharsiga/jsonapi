@@ -7,7 +7,16 @@
 		},
 		"data": {
 			"attributes": {
-				"monday": ["6-9","10-13"]
+				"monday": [
+				  {
+				    "startTime":"8",
+				    "endTime":"10"
+				  },
+				  {
+				    "startTime":"14",
+				    "endTime":"18"
+				  }
+				  ]
 			},
 			"type": "review",
 			"id": "1"
