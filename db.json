@@ -7,6 +7,8 @@
 		},
 		"data": {
 			"attributes": {
+				"website": "www.vendor.com",
+				"description": "vendor description",
 				"monday": [
 				  {
 				    "startTime":"8",
