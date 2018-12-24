@@ -7,25 +7,40 @@
 		},
 		"data": {
 			"attributes": {
-				"service": [{
-						"service": "Washed, Ironed and Hung",
-						"imageUrl": "assets/washed_iron_hung.jpg"
+				"days": [{
+						"day": "Monday",
+						"startTime": "2018-12-12T00:00:00",
+						"endTime": "2018-12-12T23:00:00"
 					},
 					{
-						"service": "Dry Cleaning",
-						"imageUrl": "assets/dry_cleaning.png"
+						"day": "Tuesday",
+						"startTime": "2018-12-12T00:00:00",
+						"endTime": "2018-12-12T23:00:00"
 					},
 					{
-						"service": "Dining and Seating",
-						"imageUrl": "assets/dining_and_seating.jpg"
+						"day": "Wednesday",
+						"startTime": "2018-12-12T00:00:00",
+						"endTime": "2018-12-12T23:00:00"
 					},
 						{
-						"service": "Wash, Dry, Hung",
-						"imageUrl": "assets/wash_dry_hung.jpg"
+						"day": "Thursday",
+						"startTime": "2018-12-12T00:00:00",
+						"endTime": "2018-12-12T23:00:00"
 					},
 						{
-						"service": "Dry Cleaning, Dining and Seating",
-						"imageUrl": "assets/Only_Iron.jpg"
+						"day": "Friday",
+						"startTime": "2018-12-12T00:00:00",
+						"endTime": "2018-12-12T23:00:00"
+					},
+					 {
+						"day": "Saturday",
+						"startTime": "2018-12-12T00:00:00",
+						"endTime": "2018-12-12T23:00:00"
+					},
+					 {
+						"day": "Sunday",
+						"startTime": "2018-12-12T00:00:00",
+						"endTime": "2018-12-12T23:00:00"
 					}
 				]
 			},
