@@ -7,42 +7,7 @@
 		},
 		"data": {
 			"attributes": {
-				"days": [{
-						"day": "Monday",
-						"startTime": "2018-12-12T00:00:00",
-						"endTime": "2018-12-12T23:00:00"
-					},
-					{
-						"day": "Tuesday",
-						"startTime": "2018-12-12T00:00:00",
-						"endTime": "2018-12-12T23:00:00"
-					},
-					{
-						"day": "Wednesday",
-						"startTime": "2018-12-12T00:00:00",
-						"endTime": "2018-12-12T23:00:00"
-					},
-						{
-						"day": "Thursday",
-						"startTime": "2018-12-12T00:00:00",
-						"endTime": "2018-12-12T23:00:00"
-					},
-						{
-						"day": "Friday",
-						"startTime": "2018-12-12T00:00:00",
-						"endTime": "2018-12-12T23:00:00"
-					},
-					 {
-						"day": "Saturday",
-						"startTime": "2018-12-12T00:00:00",
-						"endTime": "2018-12-12T23:00:00"
-					},
-					 {
-						"day": "Sunday",
-						"startTime": "2018-12-12T00:00:00",
-						"endTime": "2018-12-12T23:00:00"
-					}
-				]
+				"monday": ["6-9","10-13"]
 			},
 			"type": "review",
 			"id": "1"
