@@ -15,16 +15,19 @@
 				"twoStar": "40",
 				"oneStar": "10",
 				"description": [{
+						"reviewCount": "3",
 						"name": "Jamson",
 						"date": "Nov 1, 2018",
 						"description": "It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in"
 					},
 					{
+						"reviewCount": "4",
 						"name": "Himali",
 						"date": "Oct 10, 2018",
 						"description": "It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in"
 					},
 					{
+						"reviewCount": "3",
 						"name": "Michale",
 						"date": "Dec 1, 2018",
 						"description": "It's a great app for kids. But they use this for hackers. But kids don't realize it until the parents notice. I'm 18 and not a hacker. But they use these kinds of apps for kids to kinda lure them in"
