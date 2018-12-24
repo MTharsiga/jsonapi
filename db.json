@@ -11,12 +11,12 @@
 				"description": "vendor description",
 				"monday": [
 				  {
-				    "startTime":"8",
-				    "endTime":"10"
+				    "startTime":"2018-12-05T08:00:00",
+				    "endTime":"2018-12-05T10:00:00"
 				  },
 				  {
-				    "startTime":"14",
-				    "endTime":"18"
+				    "startTime":"12018-12-05T13:00:00",
+				    "endTime":"2018-12-05T150:00:00"
 				  }
 				  ]
 			},
