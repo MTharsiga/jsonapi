@@ -9,11 +9,11 @@
 			"attributes": {
 				"reviewCount": 5,
 				"totalReviews": "800",
-				"fiveStar": "100",
-				"fourStar": "25",
-				"threeStar": "23",
-				"twoStar": "40",
-				"oneStar": "10",
+				"fiveStar": 100,
+				"fourStar": 25,
+				"threeStar": 23,
+				"twoStar": 40,
+				"oneStar": 10,
 				"description": [{
 						"reviewCount": 3,
 						"name": "Jamson",
