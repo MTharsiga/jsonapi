@@ -1,33 +1,58 @@
-{
-	"all": {
-		"meta": {
-			"page": 1,
-			"resources_per_page": 5,
-			"total_resources": 6
-		},
-		"data": {
-			"attributes": {
-				"website": "www.vendor.com",
-				"description": "vendor description",
-				"monday": [
-				  {
-				    "startTime":"2018-12-05T08:00:00",
-				    "endTime":"2018-12-05T10:00:00"
-				  },
-				  {
-				    "startTime":"2018-12-05T13:00:00",
-				    "endTime":"2018-12-05T14:00:00"
-				  }
-				  ]
+	{
+		"all": {
+			"meta": {
+				"page": 1,
+				"resources_per_page": 5,
+				"total_resources": 6
 			},
-			"type": "review",
-			"id": "1"
+			"data": [{
+					"type": "openHours",
+					"id": "1",
+					"attributes": {
+						"vendorId": "101",
+						"day": "Monday",
+						"openHours": [{
+								"start_time": "2018-12-05T08:00:00",
+								"end_time": "2018-12-05T10:00:00"
+							},
+							{
+								"start_time": "2018-12-05T12:00:00",
+								"end_time": "2018-12-05T13:00:00"
+							},
+							{
+								"start_time": "2018-12-05T15:00:00",
+								"end_time": "2018-12-05T16:00:00"
+							}
+						]
+					}
+				},
+				{
+					"type": "openHours",
+					"id": "1",
+					"attributes": {
+						"vendorId": "101",
+						"day": "Monday",
+						"openHours": [{
+								"start_time": "2018-12-05T08:00:00",
+								"end_time": "2018-12-05T10:00:00"
+							},
+							{
+								"start_time": "2018-12-05T12:00:00",
+								"end_time": "2018-12-05T13:00:00"
+							},
+							{
+								"start_time": "2018-12-05T15:00:00",
+								"end_time": "2018-12-05T16:00:00"
+							}
+						]
+					}
+				}
+			]
+		},
+		"meta": {
+			"total-records": 2
+		},
+		"links": {
+			"self": "/authors/2"
 		}
-	},
-	"meta": {
-		"total-records": 2
-	},
-	"links": {
-		"self": "/authors/2"
 	}
-}
