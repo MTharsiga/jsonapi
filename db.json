@@ -7,7 +7,9 @@
 		},
 		"data": {
 				"attributes": {
-					"credit": "2000"
+					"orderId" : "Order1001",
+					"amount": "2000",
+					"time": "2018-12-26T08:00:00"
 				},
 				"type": "notification",
 				"id": "1"
