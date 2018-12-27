@@ -11,12 +11,6 @@
 					"attributes": {
 						"vendorId": "101",
 						"day": "monday",
-						"vendorName":"Laundromat",
-						"isFavourite":true,
-						"city":"Bambalappittiya",
-						"distance":"3km away",
-						"comments":"20",
-						"rating":"4",
 						"openHours": [{
 								"start_time": "2018-12-26T08:00:00",
 								"end_time": "2018-12-26T10:00:00"
@@ -35,12 +29,6 @@
 				{
 					"type": "openHours",
 					"id": "1",
-					"vendorName":"Laundromat",
-					"isFavourite":true,
-					"city":"Bambalappittiya",
-					"distance":"3km away",
-					"comments":"20",
-					"rating":"4",
 					"attributes": {
 						"vendorId": "101",
 						"day": "tuesday",
@@ -62,12 +50,6 @@
 				 {
 					"type": "openHours",
 					"id": "1",
-					"vendorName":"Laundromat",
-					"isFavourite":true,
-					"city":"Bambalappittiya",
-					"distance":"3km away",
-					"comments":"20",
-					"rating":"4",
 					"attributes": {
 						"vendorId": "101",
 						"day": "wednesday",
@@ -86,7 +68,19 @@
 						]
 					}
 				}
-			]
+			],
+			"included":{
+				"type":"vendor",
+				"id":"1",
+				"attributes":{
+					"vendorName":"Laundromat",
+					"isFavourite":true,
+					"city":"Bambalappittiya",
+					"distance":"3km away",
+					"comments":"20",
+					"rating":"4"
+				}
+			}
 		},
 		"meta": {
 			"total-records": 2
