@@ -14,7 +14,8 @@
 					"amount": "2000",
 					"isRated": false,
 					"rating": 0,
-					"details": "This order is reference to 1010102 order number and total no of items added is 10"
+					"details": "This order is reference to 1010102 order number and total no of items added is 10",
+					"image" : "assets/wash_dry_hung.jpg"
 				}
 			},
 			{
@@ -26,7 +27,8 @@
 					"amount": "2000",
 					"isRated": false,
 					"rating": 0,
-					"details": "This order is reference to 1010102 order number and total no of items added is 10"
+					"details": "This order is reference to 1010102 order number and total no of items added is 10",
+					"image" : "assets/wash_dry_hung.jpg"
 				}
 			}, {
 				"type": "orders",
@@ -37,7 +39,8 @@
 					"amount": "2000",
 					"isRated": true,
 					"rating": 4,
-					"details": "This order is reference to 1010102 order number and total no of items added is 10"
+					"details": "This order is reference to 1010102 order number and total no of items added is 10,
+					"image" : "assets/wash_dry_hung.jpg"
 				}
 			}
 		]
